@@ -5,7 +5,6 @@
 #' @param nucIsoType
 #' @return SampleSet
 #' @export
-#' @examples
 #' HBClassifier()
 #'
 HBClassifier <- function(SampleSet, nucIsoType)
