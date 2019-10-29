@@ -5,9 +5,9 @@
 #' @param nucIsoType
 #' @return SampleSet
 #' @export
-#' HBClassifier()
+#' HBClassifier2()
 #'
-HBClassifier <- function(SampleSet, nucIsoType)
+HBClassifier2 <- function(SampleSet, nucIsoType)
 {require(Matrix);require(devtools);require(Seurat);require(repmis);require(dplyr)
 
   SampleSet <- RunPCA(object = SampleSet, verbose = FALSE)
