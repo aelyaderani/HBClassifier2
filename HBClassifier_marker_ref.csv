@@ -1,0 +1,2202 @@
+gene,cell
+A2M,Endothelial Cells
+AAK1,GABAergic Neurons
+AATK,Oligodendrocytes
+AATK1,Oligodendrocytes
+ABAT,GABAergic Neurons
+ABCA2,Oligodendrocytes
+ABCA21,Oligodendrocytes
+ABCB1,Endothelial Cells
+ABCG2,Endothelial Cells
+ABHD2,Oligodendrocyte Precursor Cells
+ABLIM1,Astrocytes
+ABLIM11,Astrocytes
+ABLIM12,Endothelial Cells
+AC007246.3,Pyramidal Neurons
+AC011526.1,Endothelial Cells
+AC079354.1,Neuronal Stem Cells
+ACADVL,Astrocytes
+ACAP3,Pyramidal Neurons
+ACAP31,Granule Neurons
+ACOT11,Astrocytes
+ACOT111,Astrocytes
+ACOT112,Neuronal Stem Cells
+ACSL6,GABAergic Neurons
+ACSL61,Astrocytes
+ACSL62,Astrocytes
+ACSS1,Astrocytes
+ACSS11,Astrocytes
+ACTB1,Neuronal Stem Cells
+ACTB2,Endothelial Cells
+ACTG1,Neuronal Stem Cells
+ACTG11,Endothelial Cells
+ACTN1,Endothelial Cells
+ACTN4,Endothelial Cells
+ACTR2,Excitatory Neurons
+ACVRL1,Endothelial Cells
+ADAM11,Pyramidal Neurons
+ADAM22,Granule Neurons
+ADAM28,Microglia
+ADD1,Endothelial Cells
+ADD31,Astrocytes
+ADD32,Astrocytes
+ADGB,Neuronal Stem Cells
+ADIPOR2,Endothelial Cells
+ADIRF,Endothelial Cells
+AEBP1,Astrocytes
+AGBL2,Neuronal Stem Cells
+AGT,Astrocytes
+AGT1,Neuronal Stem Cells
+AHCYL1,Astrocytes
+AHCYL11,Astrocytes
+AHI1,Pyramidal Neurons
+AHI11,Pyramidal Neurons
+AHI12,GABAergic Neurons
+AHI13,GABAergic Neurons
+AHNAK,Astrocytes
+AHNAK1,Endothelial Cells
+AIF1,Microglia
+AIF1L,Endothelial Cells
+AK1,Neuronal Stem Cells
+AK7,Neuronal Stem Cells
+AK9,Neuronal Stem Cells
+AKAP12,Endothelial Cells
+AKAP8L,Pyramidal Neurons
+AKAP9,Oligodendrocytes
+AKAP91,Neuronal Stem Cells
+ALCAM,Oligodendrocytes
+ALCAM1,Oligodendrocytes
+ALCAM2,Oligodendrocyte Precursor Cells
+AMER2,Oligodendrocytes
+AMER21,Oligodendrocytes
+ANAPC51,Oligodendrocytes
+ANGPT2,Endothelial Cells
+ANK3,Granule Neurons
+ANKRD11,Pyramidal Neurons
+ANKRD111,Pyramidal Neurons
+ANKRD112,Granule Neurons
+ANKRD12,GABAergic Neurons
+ANKRD122,Oligodendrocytes
+ANKRD26,GABAergic Neurons
+ANKRD261,GABAergic Neurons
+ANKRD265,Neuronal Stem Cells
+ANKRD32,Pyramidal Neurons
+ANKRD321,Pyramidal Neurons
+ANKRD36,GABAergic Neurons
+ANKRD36C,Oligodendrocytes
+ANKS1B,Pyramidal Neurons
+ANKS1B1,Granule Neurons
+ANLN,Oligodendrocytes
+ANO10,Excitatory Neurons
+ANP32B,Endothelial Cells
+ANPEP,Pericyte
+ANPEP,Pericyte
+ANXA1,Neuronal Stem Cells
+ANXA11,Granule Neurons
+ANXA3,Endothelial Cells
+ANXA5,Endothelial Cells
+AP1G2,Pyramidal Neurons
+AP1S2,GABAergic Neurons
+AP3S1,Excitatory Neurons
+APBB1IP,Microglia
+APC,Astrocytes
+APC1,Astrocytes
+APLP14,Oligodendrocytes
+APLP15,Oligodendrocytes
+APLP2,GABAergic Neurons
+APOC1,Microglia
+APOD,Oligodendrocytes
+APOD1,Oligodendrocyte Precursor Cells
+APOD2,Endothelial Cells
+APOE,Microglia
+APOE1,Astrocytes
+APOLD1,Endothelial Cells
+APP,GABAergic Neurons
+AQP4,Astrocytes
+AQP41,Astrocytes
+AQP42,Neuronal Stem Cells
+ARAP2,Oligodendrocytes
+ARAP21,Oligodendrocytes
+ARGLU1,Pyramidal Neurons
+ARHGAP211,Oligodendrocytes
+ARHGAP29,Endothelial Cells
+ARHGAP5,Astrocytes
+ARHGAP51,Astrocytes
+ARHGEF25,Pyramidal Neurons
+ARHGEF251,Pyramidal Neurons
+ARHGEF4,Astrocytes
+ARL3,Excitatory Neurons
+ARL4A,Excitatory Neurons
+ARL4C,GABAergic Neurons
+ARL4C1,GABAergic Neurons
+ARL4C2,Neuronal Stem Cells
+ARL6IP1,GABAergic Neurons
+ARMC2,Neuronal Stem Cells
+ARMC3,Neuronal Stem Cells
+ARPC1B,Endothelial Cells
+ARPC3,Excitatory Neurons
+ARPP21,Pyramidal Neurons
+ARPP211,Pyramidal Neurons
+ASAH1,Excitatory Neurons
+ASH1L,Microglia
+ASPA,Oligodendrocytes
+ASPA1,Oligodendrocytes
+ATCAY,GABAergic Neurons
+ATCAY1,GABAergic Neurons
+ATF6B,Excitatory Neurons
+ATM,Microglia
+ATP10A,Endothelial Cells
+ATP1A2,Astrocytes
+ATP1A21,Astrocytes
+ATP1A22,Oligodendrocyte Precursor Cells
+ATP1A23,Endothelial Cells
+ATP1A3,GABAergic Neurons
+ATP1B1,Pyramidal Neurons
+ATP1B11,GABAergic Neurons
+ATP1B12,GABAergic Neurons
+ATP1B2,Astrocytes
+ATP1B21,Astrocytes
+ATP1B3,Excitatory Neurons
+ATP2B1,Pyramidal Neurons
+ATP2B11,Pyramidal Neurons
+ATP2B12,Pyramidal Neurons
+ATP2B13,Pyramidal Neurons
+ATP2B14,Granule Neurons
+ATP2B2,Pyramidal Neurons
+ATP2B21,GABAergic Neurons
+ATP5E,Endothelial Cells
+ATP5G1,Excitatory Neurons
+ATP5G2,Excitatory Neurons
+ATP5G3,Excitatory Neurons
+ATP5J,Excitatory Neurons
+ATP5L,Excitatory Neurons
+ATP6AP2,Excitatory Neurons
+ATP6V1B2,Excitatory Neurons
+ATP6V1D,Excitatory Neurons
+ATP6V1F,Excitatory Neurons
+ATP6V1G1,Excitatory Neurons
+ATP8A1,Oligodendrocytes
+ATP8A2,GABAergic Neurons
+ATPIF1,Excitatory Neurons
+ATRX,GABAergic Neurons
+ATRX2,Microglia
+B2M,Microglia
+B2M1,Endothelial Cells
+BAI3,Pyramidal Neurons
+BAIAP2,Granule Neurons
+BAIAP3,Neuronal Stem Cells
+BASP1,Pyramidal Neurons
+BASP11,Granule Neurons
+BAZ2B4,Astrocytes
+BAZ2B5,Astrocytes
+BAZ2B6,Oligodendrocytes
+BCAN,Astrocytes
+BCAN1,Oligodendrocyte Precursor Cells
+BCAS1,Oligodendrocytes
+BCAS11,Oligodendrocytes
+BCAS12,Oligodendrocyte Precursor Cells
+BCL6,Neuronal Stem Cells
+BCYRN1,Pyramidal Neurons
+BDP1,Pyramidal Neurons
+BDP11,Pyramidal Neurons
+BDP12,Pyramidal Neurons
+BEX1,Excitatory Neurons
+BEX2,Excitatory Neurons
+BEX4,Excitatory Neurons
+BEX5,Excitatory Neurons
+BGN,Endothelial Cells
+BHLHE40,Endothelial Cells
+BHLHE41,Microglia
+BMPR2,Endothelial Cells
+BRK1,Excitatory Neurons
+BSG,Endothelial Cells
+BST2,Endothelial Cells
+BTBD3,Granule Neurons
+BTF3,Excitatory Neurons
+BTG2,Neuronal Stem Cells
+BTG21,Endothelial Cells
+BTNL9,Granule Neurons
+BTNL91,Endothelial Cells
+C10orf10,Endothelial Cells
+C10orf54,Endothelial Cells
+C11orf58,Neuronal Stem Cells
+C11orf87,Granule Neurons
+C11orf88,Neuronal Stem Cells
+C12orf55,Neuronal Stem Cells
+C12orf57,Endothelial Cells
+C14orf2,Excitatory Neurons
+C17orf72,Neuronal Stem Cells
+C19orf43,Excitatory Neurons
+C19orf53,Excitatory Neurons
+C1orf173,Granule Neurons
+C1orf61,Astrocytes
+C1orf611,Astrocytes
+C1orf612,Oligodendrocyte Precursor Cells
+C1orf64,Endothelial Cells
+C1QA,Microglia
+C1QB,Microglia
+C1QC,Microglia
+C20orf96,Neuronal Stem Cells
+C21orf58,Neuronal Stem Cells
+C3,Microglia
+C4orf22,Neuronal Stem Cells
+C4orf47,Neuronal Stem Cells
+C5AR1,Neuronal Stem Cells
+C5orf45,Excitatory Neurons
+C6orf118,Neuronal Stem Cells
+C7orf63,Neuronal Stem Cells
+C8orf34,Neuronal Stem Cells
+C9orf117,Neuronal Stem Cells
+C9orf16,Pyramidal Neurons
+C9orf24,Neuronal Stem Cells
+CABLES1,Astrocytes
+CABP1,Pyramidal Neurons
+CABP11,Pyramidal Neurons
+CACNA1A,GABAergic Neurons
+CACNA1B,GABAergic Neurons
+CACNA1E,Pyramidal Neurons
+CACNA1E1,Granule Neurons
+CACNG8,Pyramidal Neurons
+CACNG81,Pyramidal Neurons
+CACNG82,GABAergic Neurons
+CACNG83,Granule Neurons
+CADM1,Astrocytes
+CADPS,Pyramidal Neurons
+CADPS1,Pyramidal Neurons
+CADPS2,GABAergic Neurons
+CADPS3,Granule Neurons
+CALD1,Oligodendrocytes
+CALD11,Endothelial Cells
+CALM1,Granule Neurons
+CALM2,Pyramidal Neurons
+CALM3,Pyramidal Neurons
+CAMK1D,Pyramidal Neurons
+CAMK1D1,Granule Neurons
+CAMK2A,Pyramidal Neurons
+CAMK2A1,Pyramidal Neurons
+CAMK2A2,Pyramidal Neurons
+CAMK2A4,Granule Neurons
+CAMK2B,Pyramidal Neurons
+CAMK2B1,Pyramidal Neurons
+CAMK2B2,Granule Neurons
+CAMK2G,Astrocytes
+CAMK2G1,Astrocytes
+CAMK2N1,Granule Neurons
+CAMKK2,Pyramidal Neurons
+CAMKV,Granule Neurons
+CAMTA1,GABAergic Neurons
+CAMTA11,GABAergic Neurons
+CANX,Neuronal Stem Cells
+CAP1,Endothelial Cells
+CAPNS1,Endothelial Cells
+CAPS,Neuronal Stem Cells
+CAPS2,Neuronal Stem Cells
+CARNS1,Oligodendrocytes
+CARNS11,Oligodendrocytes
+CASC1,Neuronal Stem Cells
+CAST,Neuronal Stem Cells
+CAST1,Endothelial Cells
+CCBE1,Pyramidal Neurons
+CCDC108,Neuronal Stem Cells
+CCDC11,Neuronal Stem Cells
+CCDC113,Neuronal Stem Cells
+CCDC12,Excitatory Neurons
+CCDC13,Neuronal Stem Cells
+CCDC146,Neuronal Stem Cells
+CCDC153,Neuronal Stem Cells
+CCDC170,Neuronal Stem Cells
+CCDC173,Neuronal Stem Cells
+CCDC175,Neuronal Stem Cells
+CCDC176,Neuronal Stem Cells
+CCDC181,Neuronal Stem Cells
+CCDC19,Neuronal Stem Cells
+CCDC24,Excitatory Neurons
+CCDC30,Neuronal Stem Cells
+CCDC37,Neuronal Stem Cells
+CCDC39,Neuronal Stem Cells
+CCDC40,Neuronal Stem Cells
+CCDC42B,Neuronal Stem Cells
+CCDC50,Oligodendrocyte Precursor Cells
+CCDC501,Endothelial Cells
+CCDC78,Neuronal Stem Cells
+CCDC88A3,Oligodendrocytes
+CCK,GABAergic Neurons
+CCND2,Granule Neurons
+CCNI,GABAergic Neurons
+CCNI1,Endothelial Cells
+CCNL1,Endothelial Cells
+CCP1105,Oligodendrocytes
+CCP1106,Oligodendrocytes
+CD13,Pericyte
+CD146,Pericyte
+CD22,Oligodendrocytes
+CD34,Endothelial Cells
+CD36,Neuronal Stem Cells
+CD45,Microglia
+CD46,Endothelial Cells
+CD59,Endothelial Cells
+CD63,Endothelial Cells
+CD74,Microglia
+CD81,Oligodendrocyte Precursor Cells
+CD811,Neuronal Stem Cells
+CD99,Neuronal Stem Cells
+CDC37,Endothelial Cells
+CDH5,Endothelial Cells
+CDHR3,Neuronal Stem Cells
+CDK10,Granule Neurons
+CDK18,Oligodendrocytes
+CDK181,Oligodendrocytes
+CDK9,Granule Neurons
+CDS1,Neuronal Stem Cells
+CEBPD,Endothelial Cells
+CELF2,Pyramidal Neurons
+CELF21,Pyramidal Neurons
+CELF22,Pyramidal Neurons
+CELF23,Pyramidal Neurons
+CELF24,Granule Neurons
+CELF4,Pyramidal Neurons
+CELF41,Pyramidal Neurons
+CELF42,GABAergic Neurons
+CELF43,GABAergic Neurons
+CELF44,Granule Neurons
+CELF5,Pyramidal Neurons
+CELF51,Pyramidal Neurons
+CEP350,Astrocytes
+CERCAM,Oligodendrocytes
+CERCAM1,Oligodendrocytes
+CES4A,Excitatory Neurons
+CETN2,Neuronal Stem Cells
+CFAP36,Excitatory Neurons
+CFH,Endothelial Cells
+CFL1,Endothelial Cells
+CFLAR,Endothelial Cells
+CGNL1,Endothelial Cells
+CHCHD10,Excitatory Neurons
+CHCHD2,Excitatory Neurons
+CHD2,Microglia
+CHD3,Pyramidal Neurons
+CHD31,Granule Neurons
+CHD5,Pyramidal Neurons
+CHD51,Pyramidal Neurons
+CHD52,GABAergic Neurons
+CHD53,Granule Neurons
+CHD9,Microglia
+CHGB,Granule Neurons
+CHN1,Pyramidal Neurons
+CHN11,Pyramidal Neurons
+CHN12,Pyramidal Neurons
+CHN13,Pyramidal Neurons
+CHRM3,GABAergic Neurons
+CIAO1,Excitatory Neurons
+CIRBP,Excitatory Neurons
+CISD1,Excitatory Neurons
+CKB1,Astrocytes
+CKB2,Astrocytes
+CKB5,Neuronal Stem Cells
+CKMT1B,Pyramidal Neurons
+CKMT1B1,Pyramidal Neurons
+CKMT1B2,GABAergic Neurons
+CLDN11,Oligodendrocytes
+CLDN111,Oligodendrocytes
+CLDN5,Endothelial Cells
+CLDND11,Oligodendrocytes
+CLDND12,Oligodendrocytes
+CLEC14A,Endothelial Cells
+CLK1,Oligodendrocytes
+CLSTN1,Neuronal Stem Cells
+CLSTN2,Granule Neurons
+CLSTN3,GABAergic Neurons
+CLTA,Excitatory Neurons
+CLU2,Astrocytes
+CLU3,Astrocytes
+CLU7,Neuronal Stem Cells
+CMYA5,Oligodendrocyte Precursor Cells
+CNDP1,Oligodendrocytes
+CNDP11,Oligodendrocytes
+CNGB1,Granule Neurons
+CNKSR2,Pyramidal Neurons
+CNKSR21,Granule Neurons
+CNN3,Neuronal Stem Cells
+CNP,Oligodendrocytes
+CNP1,Oligodendrocytes
+CNR1,GABAergic Neurons
+CNTN2,Oligodendrocytes
+CNTN21,Oligodendrocytes
+CNTN3,Neuronal Stem Cells
+CNTNAP2,GABAergic Neurons
+CNTRL,Neuronal Stem Cells
+COA3,Excitatory Neurons
+COBLL1,Endothelial Cells
+COL11A1,Oligodendrocyte Precursor Cells
+COL12A1,Granule Neurons
+COL16A1,Oligodendrocytes
+COL16A11,Oligodendrocyte Precursor Cells
+COL24A1,Pyramidal Neurons
+COL24A11,Pyramidal Neurons
+COL5A2,Pyramidal Neurons
+COL5A3,Astrocytes
+COL5A31,Astrocytes
+COL5A32,Neuronal Stem Cells
+COL8A1,Neuronal Stem Cells
+COL9A1,Oligodendrocyte Precursor Cells
+COPS6,Excitatory Neurons
+CORO6,Pyramidal Neurons
+CORO61,GABAergic Neurons
+COX4I1,Excitatory Neurons
+COX5A,Excitatory Neurons
+COX6C,Excitatory Neurons
+COX7A1,Endothelial Cells
+CP,Neuronal Stem Cells
+CP1,Endothelial Cells
+CPD,Endothelial Cells
+CPE,Astrocytes
+CPE1,Astrocytes
+CPE2,Oligodendrocyte Precursor Cells
+CPLX2,Granule Neurons
+CRB1,Neuronal Stem Cells
+CRBN,Excitatory Neurons
+CREG2,Granule Neurons
+CRIM1,Endothelial Cells
+CRIP2,Endothelial Cells
+CRYAB,Astrocytes
+CRYAB1,Oligodendrocytes
+CRYAB2,Oligodendrocytes
+CSDE1,Endothelial Cells
+CSF1R,Microglia
+CSF2RA,Microglia
+CSF3R,Microglia
+CSMD1,Excitatory Neurons
+CSMD3,Granule Neurons
+CSPG4,Oligodendrocyte Precursor Cells
+CSPG5,Oligodendrocyte Precursor Cells
+CSPP1,Neuronal Stem Cells
+CSRP1,Oligodendrocytes
+CST3,Astrocytes
+CST31,Astrocytes
+CST32,Oligodendrocyte Precursor Cells
+CST33,Neuronal Stem Cells
+CSTB,Excitatory Neurons
+CTGF,Neuronal Stem Cells
+CTGF1,Endothelial Cells
+CTNNB1,Endothelial Cells
+CTNND2,Astrocytes
+CTSB,Microglia
+CTXN1,Neuronal Stem Cells
+CX3CR1,Microglia
+CXCL14,GABAergic Neurons
+CYB5R3,Endothelial Cells
+CYCS,Excitatory Neurons
+CYP46A1,Pyramidal Neurons
+CYR61,Neuronal Stem Cells
+DAAM1,Pyramidal Neurons
+DAAM11,GABAergic Neurons
+DAAM2,Astrocytes
+DAPK1,Granule Neurons
+DBI,Astrocytes
+DCDC1,Neuronal Stem Cells
+DCLK2,Astrocytes
+DCN,Endothelial Cells
+DCTN2,Excitatory Neurons
+DCX,Neurons
+DDB1,Neuronal Stem Cells
+DDR1,Neuronal Stem Cells
+DDRGK1,Excitatory Neurons
+DDX1,Excitatory Neurons
+DDX5,Neuronal Stem Cells
+DDX51,Endothelial Cells
+DEK,Endothelial Cells
+DENND3,Microglia
+DGCR5,Pyramidal Neurons
+DGCR51,Pyramidal Neurons
+DGKG,Granule Neurons
+DGKZ,Pyramidal Neurons
+DGKZ1,Pyramidal Neurons
+DGKZ2,Granule Neurons
+DHFR,Excitatory Neurons
+DICER1,Oligodendrocytes
+DKFZP761J1410,Granule Neurons
+DKK3,Pyramidal Neurons
+DKK31,GABAergic Neurons
+DLEC1,Neuronal Stem Cells
+DLG14,Oligodendrocytes
+DLG2,Excitatory Neurons
+DLGAP1,Pyramidal Neurons
+DLGAP11,GABAergic Neurons
+DLGAP2,Pyramidal Neurons
+DLGAP21,Pyramidal Neurons
+DLX6-AS1,GABAergic Neurons
+DLX6-AS11,GABAergic Neurons
+DMD,Pyramidal Neurons
+DMD1,Neuronal Stem Cells
+DNAAF1,Neuronal Stem Cells
+DNAH10,Neuronal Stem Cells
+DNAH11,Neuronal Stem Cells
+DNAH12,Neuronal Stem Cells
+DNAH5,Neuronal Stem Cells
+DNAH6,Neuronal Stem Cells
+DNAH7,Neuronal Stem Cells
+DNAH9,Neuronal Stem Cells
+DNAI2,Neuronal Stem Cells
+DNAJB2,Oligodendrocytes
+DNAJC10,Neuronal Stem Cells
+DNAL1,Neuronal Stem Cells
+DNALI1,Neuronal Stem Cells
+DNER,GABAergic Neurons
+DNER1,Oligodendrocyte Precursor Cells
+DNM1,GABAergic Neurons
+DNM11,Granule Neurons
+DNM1L,Excitatory Neurons
+DOC2A,Neuronal Stem Cells
+DOCK10,Oligodendrocytes
+DOCK4,Pyramidal Neurons
+DOCK41,Pyramidal Neurons
+DOCK42,Granule Neurons
+DOCK43,Microglia
+DOCK5,Oligodendrocytes
+DOCK51,Oligodendrocytes
+DOCK9,Endothelial Cells
+DPP6,Neuronal Stem Cells
+DPYSL3,Neuronal Stem Cells
+DRC1,Neuronal Stem Cells
+DST2,Astrocytes
+DST3,Astrocytes
+DST4,Oligodendrocytes
+DST5,Oligodendrocytes
+DSTN,Excitatory Neurons
+DTHD1,Neuronal Stem Cells
+DTNA,Astrocytes
+DTNA1,Astrocytes
+DTNA3,Neuronal Stem Cells
+DUSP1,Neuronal Stem Cells
+DUSP11,Endothelial Cells
+DUSP18,Neuronal Stem Cells
+DYDC2,Neuronal Stem Cells
+DYNC2H1,Neuronal Stem Cells
+DYNLL1,Excitatory Neurons
+DYNLRB2,Neuronal Stem Cells
+DZIP3,Neuronal Stem Cells
+ECHDC2,Astrocytes
+ECHDC21,Neuronal Stem Cells
+EDIL3,Oligodendrocytes
+EDIL31,Oligodendrocytes
+EDN1,Endothelial Cells
+EEF1A1,Oligodendrocytes
+EEF1D,Endothelial Cells
+EEF2,Endothelial Cells
+EFCAB1,Neuronal Stem Cells
+EFCAB2,Neuronal Stem Cells
+EFEMP1,Neuronal Stem Cells
+EFHC1,Neuronal Stem Cells
+EGFL7,Endothelial Cells
+EGR1,Neuronal Stem Cells
+EHBP1L1,Neuronal Stem Cells
+EID1,Excitatory Neurons
+EIF1,Endothelial Cells
+EIF1B,Excitatory Neurons
+EIF2AK2,Endothelial Cells
+EIF3A,Endothelial Cells
+EIF3K,Excitatory Neurons
+EIF4G2,Endothelial Cells
+ELAVL2,GABAergic Neurons
+ELAVL3,GABAergic Neurons
+ELN,Neuronal Stem Cells
+ELOVL7,Endothelial Cells
+ELTD1,Endothelial Cells
+EML6,Inhibitory Neurons
+EMP2,Endothelial Cells
+ENC1,Pyramidal Neurons
+ENC11,Pyramidal Neurons
+ENC12,Pyramidal Neurons
+ENC13,Pyramidal Neurons
+ENC15,Granule Neurons
+ENG,Endothelial Cells
+ENKUR,Neuronal Stem Cells
+ENO1,Neuronal Stem Cells
+ENO2,Neurons
+ENPP2,Oligodendrocytes
+ENPP21,Oligodendrocytes
+ENY2,Excitatory Neurons
+EPAS1,Endothelial Cells
+EPB41L2,Microglia
+EPHA4,Pyramidal Neurons
+EPHA7,Granule Neurons
+EPHB6,Pyramidal Neurons
+EPHB61,Pyramidal Neurons
+EPHB62,GABAergic Neurons
+EPN2,Oligodendrocyte Precursor Cells
+ERBB2IP,Oligodendrocytes
+ERBB2IP1,Oligodendrocytes
+ERBB3,Oligodendrocytes
+ERBB31,Oligodendrocytes
+ERBB4,GABAergic Neurons
+ERBB41,GABAergic Neurons
+ERC2,Granule Neurons
+ERH,Excitatory Neurons
+ERMN,Oligodendrocytes
+ERP29,Excitatory Neurons
+ESAM,Endothelial Cells
+ESYT2,Endothelial Cells
+ETNPPL,Astrocytes
+ETNPPL1,Astrocytes
+ETS1,Endothelial Cells
+ETS2,Endothelial Cells
+EVL,Pyramidal Neurons
+EVL1,Pyramidal Neurons
+EVL2,GABAergic Neurons
+EXPH5,Neuronal Stem Cells
+EYA4,Neuronal Stem Cells
+EZR,Astrocytes
+EZR1,Neuronal Stem Cells
+FAM107A,Astrocytes
+FAM107A1,Astrocytes
+FAM107A2,Endothelial Cells
+FAM118A,Granule Neurons
+FAM118A1,Neuronal Stem Cells
+FAM127A,Excitatory Neurons
+FAM153B,Pyramidal Neurons
+FAM153B1,Pyramidal Neurons
+FAM153B2,Pyramidal Neurons
+FAM153B3,Granule Neurons
+FAM153C,Granule Neurons
+FAM178A,Oligodendrocytes
+FAM179A,Neuronal Stem Cells
+FAM183A,Neuronal Stem Cells
+FAM184A,Neuronal Stem Cells
+FAM213A,Endothelial Cells
+FAM227A,Neuronal Stem Cells
+FAM229B,Neuronal Stem Cells
+FAM65B,GABAergic Neurons
+FAM81B,Neuronal Stem Cells
+FANCC,Oligodendrocytes
+FANK1,Neuronal Stem Cells
+FBXO2,Excitatory Neurons
+FBXW7,Pyramidal Neurons
+FBXW71,Pyramidal Neurons
+FBXW72,Pyramidal Neurons
+FBXW73,Pyramidal Neurons
+FGD2,Microglia
+FGFR1,Neuronal Stem Cells
+FGFR3,Astrocytes
+FGFR31,Astrocytes
+FHAD1,Neuronal Stem Cells
+FHL1,Granule Neurons
+FHL11,Neuronal Stem Cells
+FKBP1A,Endothelial Cells
+FLCN,Granule Neurons
+FLI1,Endothelial Cells
+FLT1,Endothelial Cells
+FMNL22,Oligodendrocytes
+FN1,Endothelial Cells
+FNBP1,Astrocytes
+FNBP11,Astrocytes
+FNBP12,Oligodendrocytes
+FNBP13,Oligodendrocytes
+FNDC3B,Excitatory Neurons
+FOS,Astrocytes
+FOS1,Neuronal Stem Cells
+FOS2,Endothelial Cells
+FOSB,Neuronal Stem Cells
+FOSL2,Endothelial Cells
+FOXC1,Endothelial Cells
+FOXJ1,Neuronal Stem Cells
+FOXP1,Endothelial Cells
+FRAS1,Pyramidal Neurons
+FRMD4A,Microglia
+FRMD4B,Oligodendrocytes
+FRMD4B1,Oligodendrocytes
+FRMPD2,Neuronal Stem Cells
+FRRS1L,Pyramidal Neurons
+FRRS1L1,GABAergic Neurons
+FRYL,Oligodendrocytes
+FRYL1,Oligodendrocytes
+FSTL1,Neuronal Stem Cells
+FTH15,Oligodendrocytes
+FTL2,Microglia
+FTL3,Endothelial Cells
+FUT9,Astrocytes
+FUT91,Astrocytes
+FXYD6,GABAergic Neurons
+FXYD61,GABAergic Neurons
+FYB,Microglia
+FZD3,Pyramidal Neurons
+FZD31,Neuronal Stem Cells
+GABARAPL2,Excitatory Neurons
+GABBR1,Astrocytes
+GABBR2,GABAergic Neurons
+GABRA1,GABAergic Neurons
+GABRA11,GABAergic Neurons
+GABRB2,Pyramidal Neurons
+GABRB21,GABAergic Neurons
+GABRB22,GABAergic Neurons
+GABRG1,Neuronal Stem Cells
+GABRG2,GABAergic Neurons
+GAD1,GABAergic Neurons
+GAD11,GABAergic Neurons
+GAD2,GABAergic Neurons
+GAD21,GABAergic Neurons
+GADD45B,Neuronal Stem Cells
+GADD45B1,Endothelial Cells
+GALNT15,Endothelial Cells
+GAP43,Pyramidal Neurons
+GAP431,Pyramidal Neurons
+GAPDH,Astrocytes
+GAPDH1,Endothelial Cells
+GAS6,Microglia
+GATAD11,Oligodendrocytes
+GBP1,Neuronal Stem Cells
+GFAP,Astrocytes
+GFAP1,Astrocytes
+GFAP2,Neuronal Stem Cells
+GGT5,Endothelial Cells
+GIMAP7,Endothelial Cells
+GJA1,Astrocytes
+GJA11,Astrocytes
+GJA12,Neuronal Stem Cells
+GLMN,Excitatory Neurons
+GLUD1,Astrocytes
+GLUL,Astrocytes
+GLUL1,Astrocytes
+GLUL2,Oligodendrocytes
+GLUL3,Oligodendrocytes
+GNAI2,Endothelial Cells
+GNAL,Granule Neurons
+GNAS,GABAergic Neurons
+GNAS1,GABAergic Neurons
+GNAS4,Endothelial Cells
+GNB2L1,Endothelial Cells
+GNG11,Endothelial Cells
+GOLGA2,Neuronal Stem Cells
+GOLGA4,Oligodendrocytes
+GOLGA42,Microglia
+GOLGA8A,Pyramidal Neurons
+GOLIM4,Neuronal Stem Cells
+GOLT1B,Excitatory Neurons
+GOPC,Excitatory Neurons
+GOT1,Excitatory Neurons
+GPCPD1,Endothelial Cells
+GPM6B4,Oligodendrocytes
+GPM6B5,Oligodendrocytes
+GPR116,Endothelial Cells
+GPR155,GABAergic Neurons
+GPR34,Microglia
+GPR56,Oligodendrocyte Precursor Cells
+GPR85,Endothelial Cells
+GPR98,Astrocytes
+GPR981,Astrocytes
+GPRASP1,Excitatory Neurons
+GPRC5B,Astrocytes
+GPRC5B1,Oligodendrocytes
+GPRC5B2,Oligodendrocytes
+GPX1,Endothelial Cells
+GRAMD3,Astrocytes
+GRAMD31,Astrocytes
+GRAMD32,Neuronal Stem Cells
+GREB1L,Oligodendrocytes
+GRIA1,Pyramidal Neurons
+GRIA11,Pyramidal Neurons
+GRIA12,Granule Neurons
+GRIA2,Pyramidal Neurons
+GRIA21,Pyramidal Neurons
+GRIA22,Pyramidal Neurons
+GRIA23,Pyramidal Neurons
+GRIA24,Granule Neurons
+GRIA3,Pyramidal Neurons
+GRIA31,Pyramidal Neurons
+GRIA32,Pyramidal Neurons
+GRIA33,Pyramidal Neurons
+GRIA34,GABAergic Neurons
+GRIA4,GABAergic Neurons
+GRIA41,GABAergic Neurons
+GRIK1,GABAergic Neurons
+GRIK11,GABAergic Neurons
+GRIK2,GABAergic Neurons
+GRIK21,GABAergic Neurons
+GRIK22,Granule Neurons
+GRIN1,Pyramidal Neurons
+GRIN11,GABAergic Neurons
+GRIN12,GABAergic Neurons
+GRIN2A,GABAergic Neurons
+GRIN2B,Pyramidal Neurons
+GRIN2B1,Pyramidal Neurons
+GRIN2B2,GABAergic Neurons
+GRIN2B3,Granule Neurons
+GRIP2,GABAergic Neurons
+GRM3,Astrocytes
+GSN,Oligodendrocytes
+GSN1,Endothelial Cells
+GSTA4,Excitatory Neurons
+GSTP1,Neuronal Stem Cells
+GSTP11,Endothelial Cells
+H3F3B,Excitatory Neurons
+H3F3B1,Neuronal Stem Cells
+H3F3B2,Endothelial Cells
+HAGH,Excitatory Neurons
+HAGHL,Neuronal Stem Cells
+HAPLN2,Oligodendrocytes
+HDGF,Neuronal Stem Cells
+HEATR5B,Excitatory Neurons
+HEG1,Endothelial Cells
+HERC2,Endothelial Cells
+HERPUD1,Endothelial Cells
+HES1,Astrocytes
+HES11,Neuronal Stem Cells
+HES12,Endothelial Cells
+HES4,Endothelial Cells
+HGSNAT,Excitatory Neurons
+HHIP,Oligodendrocytes
+HIF3A,Astrocytes
+HIF3A1,Astrocytes
+HIGD1B,Endothelial Cells
+HINT1,Excitatory Neurons
+HIPK1,Neuronal Stem Cells
+HIPK3,Neuronal Stem Cells
+HLA-A,Endothelial Cells
+HLA-B,Endothelial Cells
+HLA-C,Endothelial Cells
+HLA-DRB1,Microglia
+HLA-E,Microglia
+HLA-E1,Neuronal Stem Cells
+HLA-E2,Endothelial Cells
+HLA-F,Endothelial Cells
+HMGB1,Endothelial Cells
+HMGN3,Excitatory Neurons
+HMGXB4,Excitatory Neurons
+HN1,Excitatory Neurons
+HNRNPA2B1,Oligodendrocytes
+HNRNPH11,Endothelial Cells
+HPCA,Pyramidal Neurons
+HPCA1,Granule Neurons
+HPCAL4,Granule Neurons
+HSD17B12,Excitatory Neurons
+HSP90AA14,Astrocytes
+HSP90AA15,Microglia
+HSP90AA16,Neuronal Stem Cells
+HSP90AB1,GABAergic Neurons
+HSP90B1,Endothelial Cells
+HSPA1A,Astrocytes
+HSPA1A1,Endothelial Cells
+HSPA1B,Astrocytes
+HSPA1B1,Neuronal Stem Cells
+HSPA1B2,Endothelial Cells
+HSPA5,Neuronal Stem Cells
+HSPB1,Astrocytes
+HSPB8,Neuronal Stem Cells
+HTRA1,Oligodendrocyte Precursor Cells
+HYAL2,Endothelial Cells
+HYDIN,Neuronal Stem Cells
+IBA1,Microglia
+ICA1,Excitatory Neurons
+ICAM2,Endothelial Cells
+ICAM5,Granule Neurons
+ID1,Neuronal Stem Cells
+ID11,Endothelial Cells
+ID2,Astrocytes
+ID3,Astrocytes
+ID31,Endothelial Cells
+ID4,Astrocytes
+ID41,Neuronal Stem Cells
+IDH2,Excitatory Neurons
+IER2,Neuronal Stem Cells
+IFI16,Microglia
+IFI161,Endothelial Cells
+IFI27,Endothelial Cells
+IFI44,Endothelial Cells
+IFI44L,Endothelial Cells
+IFI6,Neuronal Stem Cells
+IFI61,Endothelial Cells
+IFITM2,Endothelial Cells
+IFITM3,Endothelial Cells
+IFNGR1,Endothelial Cells
+IFT27,Neuronal Stem Cells
+IFT57,Neuronal Stem Cells
+IFT81,Neuronal Stem Cells
+IFT88,Neuronal Stem Cells
+IGF1,GABAergic Neurons
+IGFBP7,Endothelial Cells
+IGFBP7-AS1,Neuronal Stem Cells
+IK,Neuronal Stem Cells
+IL18,Microglia
+IL6ST,Microglia
+IL6ST1,Endothelial Cells
+INPP5F,GABAergic Neurons
+INPP5F1,GABAergic Neurons
+INSR,Endothelial Cells
+INTU,Astrocytes
+INTU1,Astrocytes
+INTU2,Neuronal Stem Cells
+IQCA1,Astrocytes
+IQCA11,Astrocytes
+IQCA12,Neuronal Stem Cells
+IQCG,Neuronal Stem Cells
+IQGAP1,Endothelial Cells
+IRF2BP2,Neuronal Stem Cells
+IRS2,Oligodendrocytes
+ISCU,Excitatory Neurons
+ISG15,Endothelial Cells
+ITGA1,Endothelial Cells
+ITGA6,Endothelial Cells
+ITGA7,Granule Neurons
+ITGA71,Astrocytes
+ITGA8,Pyramidal Neurons
+ITGAM,Microglia
+ITGAX,Microglia
+ITGB1,Endothelial Cells
+ITGB8,Neuronal Stem Cells
+ITIH5,Endothelial Cells
+ITM2A,Endothelial Cells
+ITM2B,Endothelial Cells
+ITPKB,Neuronal Stem Cells
+ITPR1,Pyramidal Neurons
+ITPR2,Astrocytes
+ITPR21,Microglia
+ITSN1,Astrocytes
+JPH4,Pyramidal Neurons
+JUN,Astrocytes
+1-Jun,Neuronal Stem Cells
+2-Jun,Endothelial Cells
+JUNB,Astrocytes
+JUNB1,Neuronal Stem Cells
+JUNB2,Endothelial Cells
+JUND,Neuronal Stem Cells
+KALRN,Pyramidal Neurons
+KALRN1,Pyramidal Neurons
+KALRN2,Pyramidal Neurons
+KANK3,Endothelial Cells
+KCNAB3,GABAergic Neurons
+KCNB1,Pyramidal Neurons
+KCNC1,GABAergic Neurons
+KCNC2,GABAergic Neurons
+KCNC21,GABAergic Neurons
+KCND3,GABAergic Neurons
+KCNH3,Pyramidal Neurons
+KCNH31,Pyramidal Neurons
+KCNIP1,Oligodendrocyte Precursor Cells
+KCNIP2,Granule Neurons
+KCNIP4,Astrocytes
+KCNJ6,Pyramidal Neurons
+KCNJ61,Pyramidal Neurons
+KCNJ62,Granule Neurons
+KCNK1,Granule Neurons
+KCNMA1,Pyramidal Neurons
+KCNN2,Pyramidal Neurons
+KCNN3,Astrocytes
+KCNQ1OT1,Pyramidal Neurons
+KCNQ1OT11,Pyramidal Neurons
+KCNQ1OT12,GABAergic Neurons
+KCNQ1OT16,Oligodendrocytes
+KCTD12,Endothelial Cells
+KCTD16,Granule Neurons
+KIAA0368,Pyramidal Neurons
+KIAA0930,Pyramidal Neurons
+KIAA09303,Granule Neurons
+KIAA09304,Oligodendrocytes
+KIAA1107,GABAergic Neurons
+KIAA11071,GABAergic Neurons
+KIAA1244,Granule Neurons
+KIAA1377,Pyramidal Neurons
+KIAA13771,Pyramidal Neurons
+KIAA13775,Neuronal Stem Cells
+KIAA1407,Neuronal Stem Cells
+KIAA1456,GABAergic Neurons
+KIAA14561,Neuronal Stem Cells
+KIAA1462,Endothelial Cells
+KIAA15984,Oligodendrocytes
+KIAA15985,Oligodendrocytes
+KIAA15987,Microglia
+KIDINS2201,Oligodendrocytes
+KIF21A,GABAergic Neurons
+KIF27,Neuronal Stem Cells
+KIF5B,Endothelial Cells
+KIFAP3,GABAergic Neurons
+KIT,GABAergic Neurons
+KLF2,Endothelial Cells
+KLF6,Endothelial Cells
+KLHL2,Granule Neurons
+KLHL21,Neuronal Stem Cells
+KMT2A,GABAergic Neurons
+KNOP1,Oligodendrocytes
+KRAS,Excitatory Neurons
+KSR2,Pyramidal Neurons
+KTN11,Oligodendrocytes
+KTN12,Endothelial Cells
+LAMA5,Endothelial Cells
+LAMP2,Oligodendrocytes
+LAMP21,Oligodendrocytes
+LAMTOR5,Excitatory Neurons
+LAPTM4A,Endothelial Cells
+LARP1B,Pyramidal Neurons
+LCA5,Neuronal Stem Cells
+LDB3,Oligodendrocytes
+LGALS1,Endothelial Cells
+LGALS3,Endothelial Cells
+LGI4,Astrocytes
+LGI41,Astrocytes
+LHFP,Endothelial Cells
+LIFR,Neuronal Stem Cells
+LIMS2,Endothelial Cells
+LINC00599,Pyramidal Neurons
+LINC005991,Pyramidal Neurons
+LINC005992,Pyramidal Neurons
+LINC005993,GABAergic Neurons
+LINC005994,GABAergic Neurons
+LINC005995,Granule Neurons
+LINC00632,Pyramidal Neurons
+LINC006321,Pyramidal Neurons
+LINC006322,Pyramidal Neurons
+LINC00966,Pyramidal Neurons
+LINC009661,Pyramidal Neurons
+LINC009662,GABAergic Neurons
+LINGO1,Microglia
+LL22NC03-2H8.5,Pyramidal Neurons
+LL22NC03-2H8.51,Pyramidal Neurons
+LL22NC03-2H8.52,Granule Neurons
+LMNA,Neuronal Stem Cells
+LMO2,Neuronal Stem Cells
+LMO21,Endothelial Cells
+LMO4,Pyramidal Neurons
+LMO41,Pyramidal Neurons
+LMO42,Pyramidal Neurons
+LMO7,Pyramidal Neurons
+LMO71,Granule Neurons
+LPAR6,Microglia
+LPCAT4,GABAergic Neurons
+LPIN1,Astrocytes
+LRP1,Oligodendrocyte Precursor Cells
+LRRC23,Neuronal Stem Cells
+LRRC46,Neuronal Stem Cells
+LRRC48,Neuronal Stem Cells
+LRRC7,Pyramidal Neurons
+LRRC71,Granule Neurons
+LRRC9,Neuronal Stem Cells
+LRRFIP1,Pyramidal Neurons
+LRRFIP11,GABAergic Neurons
+LRRIQ1,Neuronal Stem Cells
+LSAMP,GABAergic Neurons
+LSAMP1,Astrocytes
+LSR,Endothelial Cells
+LUC7L,Pyramidal Neurons
+LUZP2,Oligodendrocyte Precursor Cells
+LY6E,Endothelial Cells
+LY6H,Pyramidal Neurons
+LZTS3,Granule Neurons
+MAATS1,Neuronal Stem Cells
+MACF12,Astrocytes
+MACF13,Astrocytes
+MAF,GABAergic Neurons
+MAF1,Microglia
+MAG,Oligodendrocytes
+MAGI1,GABAergic Neurons
+MAL,Oligodendrocytes
+MALAT11,Pyramidal Neurons
+MALAT13,Astrocytes
+MAMDC2,Inhibitory Neurons
+MAN1A2,Pyramidal Neurons
+MAN1A21,GABAergic Neurons
+MAN2A1,Oligodendrocytes
+MAP1B,Granule Neurons
+MAP2,Pyramidal Neurons
+MAP21,Pyramidal Neurons
+MAP22,Pyramidal Neurons
+MAP23,Pyramidal Neurons
+MAP24,GABAergic Neurons
+MAP25,GABAergic Neurons
+MAP26,Granule Neurons
+MAP3K19,Neuronal Stem Cells
+MAP4K4,Oligodendrocytes
+MAP4K41,Oligodendrocytes
+MAP4K5,Oligodendrocytes
+MAP71,Oligodendrocytes
+MAP9,Neuronal Stem Cells
+MAPK1,Granule Neurons
+MAPK10,Pyramidal Neurons
+MAPK15,Neuronal Stem Cells
+MARCKS,Oligodendrocyte Precursor Cells
+MARCKS1,Neuronal Stem Cells
+MATN2,Neuronal Stem Cells
+MAX,Excitatory Neurons
+MBP6,Oligodendrocytes
+MBP7,Oligodendrocytes
+MCAM,Pericyte
+MCL1,Neuronal Stem Cells
+MCL11,Endothelial Cells
+MDH1,Excitatory Neurons
+MED10,Excitatory Neurons
+MED31,Excitatory Neurons
+MEF2A,Microglia
+MEF2C,Pyramidal Neurons
+MEF2C1,Pyramidal Neurons
+MEF2C11,Microglia
+MEF2C4,GABAergic Neurons
+MEF2C5,GABAergic Neurons
+MEG3,Pyramidal Neurons
+MEG31,Pyramidal Neurons
+MEG32,Pyramidal Neurons
+MEG33,Pyramidal Neurons
+MEG34,Granule Neurons
+MEIS2,Neuronal Stem Cells
+MEIS3,Granule Neurons
+MERTK,Microglia
+MEST,Excitatory Neurons
+METRN,Neuronal Stem Cells
+METTL7A,Astrocytes
+METTL7A1,Astrocytes
+METTL7A2,Neuronal Stem Cells
+MFSD2A,Endothelial Cells
+MGEA5,Granule Neurons
+MGLL,Endothelial Cells
+MGST1,Neuronal Stem Cells
+MGST3,Excitatory Neurons
+MIAT,Pyramidal Neurons
+MIAT1,Pyramidal Neurons
+MIAT2,Pyramidal Neurons
+MIAT3,GABAergic Neurons
+MICAL2,Granule Neurons
+MICALL2,Astrocytes
+MIDN,Neuronal Stem Cells
+MIR219-2,Oligodendrocytes
+MIR219-21,Oligodendrocytes
+MIR29B1,Pyramidal Neurons
+MIR29B11,Pyramidal Neurons
+MIS18BP1,Microglia
+MKL2,Granule Neurons
+MKLN1,Astrocytes
+MKNK1,Microglia
+MLC1,Neuronal Stem Cells
+MLF1,Neuronal Stem Cells
+MLLT11,Excitatory Neurons
+MMP17,Pyramidal Neurons
+MNS1,Neuronal Stem Cells
+MOBP7,Oligodendrocytes
+MOBP8,Oligodendrocytes
+MOG,Oligodendrocytes
+MOG1,Oligodendrocytes
+MOK,Neuronal Stem Cells
+MPHOSPH8,Pyramidal Neurons
+MPHOSPH81,Pyramidal Neurons
+MPHOSPH82,Granule Neurons
+MRPL41,Pyramidal Neurons
+MRPS16,Excitatory Neurons
+MRPS21,Excitatory Neurons
+MRVI1,Astrocytes
+MS4A7,Microglia
+MSI2,Astrocytes
+MSI21,Astrocytes
+MSI22,Neuronal Stem Cells
+MT-ATP6,Endothelial Cells
+MT-CO1,Neuronal Stem Cells
+MT-CO11,Neuronal Stem Cells
+MT-CO2,Neuronal Stem Cells
+MT-CO21,Endothelial Cells
+MT-CO31,Pyramidal Neurons
+MT-CO32,Endothelial Cells
+MT-CYB,Neuronal Stem Cells
+MT-CYB1,Endothelial Cells
+MT-ND1,Endothelial Cells
+MT-ND2,Neuronal Stem Cells
+MT-ND21,Endothelial Cells
+MT-ND3,Endothelial Cells
+MT-ND4,Endothelial Cells
+MT-ND5,Neuronal Stem Cells
+MT-ND51,Endothelial Cells
+MT-RNR1,Endothelial Cells
+MT-RNR24,Astrocytes
+MT-RNR25,Microglia
+MT-RNR26,Neuronal Stem Cells
+MT-RNR27,Endothelial Cells
+MT1E,Endothelial Cells
+MT1F,Endothelial Cells
+MT1M,Endothelial Cells
+MT1X,Endothelial Cells
+MT2A,Astrocytes
+MT2A1,Neuronal Stem Cells
+MT2A2,Endothelial Cells
+MT3,Astrocytes
+MT31,Astrocytes
+MT32,Oligodendrocyte Precursor Cells
+MTF2,Excitatory Neurons
+MTR,Excitatory Neurons
+MTRNR2L12,Excitatory Neurons
+MTRNR2L8,Excitatory Neurons
+MTSS1L,Neuronal Stem Cells
+MTUS1,Oligodendrocytes
+MTUS11,Oligodendrocytes
+MTUS12,Endothelial Cells
+MYCBP2,Granule Neurons
+MYH10,Pyramidal Neurons
+MYH9,Endothelial Cells
+MYL12A,Endothelial Cells
+MYL12B,Excitatory Neurons
+MYL6,Neuronal Stem Cells
+MYL61,Endothelial Cells
+MYO10,Astrocytes
+MYO61,Oligodendrocytes
+MYRF,Oligodendrocytes
+MYRF1,Oligodendrocytes
+MYT1L,Pyramidal Neurons
+MYT1L1,Pyramidal Neurons
+MYT1L2,GABAergic Neurons
+MYT1L3,GABAergic Neurons
+NAA20,Excitatory Neurons
+NAMPT,Endothelial Cells
+NAP1L3,GABAergic Neurons
+NAP1L5,Excitatory Neurons
+NASP1,Oligodendrocytes
+NAV1,Oligodendrocyte Precursor Cells
+NAV2,Astrocytes
+NAV3,Microglia
+NBEA,Granule Neurons
+NBPF1,Astrocytes
+NBPF10,Astrocytes
+NBPF101,Astrocytes
+NBPF11,Astrocytes
+NBPF9,Astrocytes
+NCAM11,GABAergic Neurons
+NCAM12,Oligodendrocyte Precursor Cells
+NCAM2,Granule Neurons
+NCAN,Astrocytes
+NCDN,Granule Neurons
+NCL,Endothelial Cells
+NDRG1,Oligodendrocytes
+NDRG2,Astrocytes
+NDRG21,Astrocytes
+NDRG22,Oligodendrocytes
+NDUFA4,Inhibitory Neurons
+NDUFA4L2,Endothelial Cells
+NDUFA5,Excitatory Neurons
+NDUFA8,Excitatory Neurons
+NDUFS5,Excitatory Neurons
+NEAT110,Microglia
+NEAT111,Neuronal Stem Cells
+NEAT112,Endothelial Cells
+NEAT15,Astrocytes
+NEAT16,Astrocytes
+NEAT17,Oligodendrocytes
+NEAT18,Oligodendrocytes
+NEBL,Astrocytes
+NEBL1,Neuronal Stem Cells
+NECAB1,Pyramidal Neurons
+NECAB11,Pyramidal Neurons
+NEDD9,Endothelial Cells
+NEFL,Pyramidal Neurons
+NEFM,Pyramidal Neurons
+NEFM1,Pyramidal Neurons
+NEGR1,Pyramidal Neurons
+NEGR11,GABAergic Neurons
+NEK10,Neuronal Stem Cells
+NEK11,Neuronal Stem Cells
+NEK5,Neuronal Stem Cells
+NELL2,Pyramidal Neurons
+NELL21,Pyramidal Neurons
+NELL22,Granule Neurons
+NES,Endothelial Cells
+NET1,Endothelial Cells
+NFIA,Neuronal Stem Cells
+NFIB,GABAergic Neurons
+NFIX,Neuronal Stem Cells
+NFKBIA,Endothelial Cells
+NG2,Pericyte
+NGFRAP1,Excitatory Neurons
+NHLRC3,Excitatory Neurons
+NIN,Pyramidal Neurons
+NIN1,Pyramidal Neurons
+NISCH,Granule Neurons
+NKTR,Oligodendrocytes
+NKX6-2,Oligodendrocytes
+NME5,Neuronal Stem Cells
+NNAT,Neuronal Stem Cells
+NOP56,Excitatory Neurons
+NOS1AP,Pyramidal Neurons
+NOS1AP1,Pyramidal Neurons
+NOSTRIN,Endothelial Cells
+NOTCH3,Endothelial Cells
+NOTCH4,Endothelial Cells
+NOVA1,Oligodendrocyte Precursor Cells
+NPAS3,Neuronal Stem Cells
+NPHP1,Neuronal Stem Cells
+NPTX1,Pyramidal Neurons
+NPTX11,Granule Neurons
+NPTX2,Granule Neurons
+NPTXR,Pyramidal Neurons
+NPTXR1,GABAergic Neurons
+NPTXR2,Granule Neurons
+NPY1R,Granule Neurons
+NR2F1,Neuronal Stem Cells
+NR4A1,Neuronal Stem Cells
+NR4A11,Endothelial Cells
+NR4A3,Neuronal Stem Cells
+NRBP2,Neuronal Stem Cells
+NRCAM,Pyramidal Neurons
+NRCAM1,Pyramidal Neurons
+NRCAM2,Granule Neurons
+NRCAM5,Oligodendrocyte Precursor Cells
+NRD1,Excitatory Neurons
+NRGN,Pyramidal Neurons
+NRGN1,Pyramidal Neurons
+NRGN4,Granule Neurons
+NRIP3,Pyramidal Neurons
+NRIP31,GABAergic Neurons
+NRN1,Granule Neurons
+NRP1,Pyramidal Neurons
+NRP11,Pyramidal Neurons
+NRP12,Granule Neurons
+NRXN1,Pyramidal Neurons
+NRXN11,GABAergic Neurons
+NRXN2,GABAergic Neurons
+NRXN3,GABAergic Neurons
+NRXN31,GABAergic Neurons
+NSG2,GABAergic Neurons
+NSMF,Granule Neurons
+NSMF1,Neuronal Stem Cells
+NTM3,Astrocytes
+NTM4,Astrocytes
+NTM5,Oligodendrocytes
+NTM6,Oligodendrocyte Precursor Cells
+NTRK2,Astrocytes
+NTRK21,Astrocytes
+NTRK22,Neuronal Stem Cells
+NTS,Neuronal Stem Cells
+NUAK1,Pyramidal Neurons
+NUCKS1,Neuronal Stem Cells
+OAZ1,Endothelial Cells
+OCIAD1,Excitatory Neurons
+ODF2L1,Neuronal Stem Cells
+ODF3B,Neuronal Stem Cells
+OGFRL1,Astrocytes
+OIP5-AS1,GABAergic Neurons
+OLFM1,Pyramidal Neurons
+OLFM11,Granule Neurons
+OLIG1,Oligodendrocyte Precursor Cells
+OLIG2,Oligodendrocyte Precursor Cells
+OPALIN,Oligodendrocytes
+OSBPL1A,Oligodendrocytes
+OXR1,GABAergic Neurons
+P2RY12,Microglia
+PABPC1,Microglia
+PABPC11,Endothelial Cells
+PAK1,Pyramidal Neurons
+PAK3,Pyramidal Neurons
+PAK31,Pyramidal Neurons
+PALLD,Astrocytes
+PALMD,Neuronal Stem Cells
+PALMD1,Endothelial Cells
+PAPD4,Excitatory Neurons
+PAPSS2,Endothelial Cells
+PARD3B,Neuronal Stem Cells
+PARK7,Excitatory Neurons
+PARP14,Endothelial Cells
+PARP9,Endothelial Cells
+PAWR,Neuronal Stem Cells
+PAX2,Granule Neurons
+PAX6,Granule Neurons
+PBXIP1,Neuronal Stem Cells
+PCDH10,Oligodendrocytes
+PCDH20,Granule Neurons
+PCDH94,Oligodendrocytes
+PCDH95,Oligodendrocytes
+PCDP1,Neuronal Stem Cells
+PCED1B,Excitatory Neurons
+PCLO,Pyramidal Neurons
+PCLO1,Pyramidal Neurons
+PCLO2,Pyramidal Neurons
+PCLO3,GABAergic Neurons
+PCLO4,GABAergic Neurons
+PCLO5,Granule Neurons
+PCNT,Pyramidal Neurons
+PDCD4,Endothelial Cells
+PDE1C,Oligodendrocytes
+PDE1C1,Oligodendrocytes
+PDE8A,Oligodendrocytes
+PDE8B,Granule Neurons
+PDGFRA,Oligodendrocyte Precursor Cells
+PDGFRB,Pericyte
+PDK3,Excitatory Neurons
+PDK4,Endothelial Cells
+PDS5B,Pyramidal Neurons
+PEBP1,Excitatory Neurons
+PECAM1,Pericyte
+PEG3,GABAergic Neurons
+PEG31,GABAergic Neurons
+PER1,Neuronal Stem Cells
+PERP,Endothelial Cells
+PEX5L,Oligodendrocytes
+PFKFB2,Astrocytes
+PFKFB3,Neuronal Stem Cells
+PFN1,Endothelial Cells
+PHF10,Endothelial Cells
+PHF20L1,GABAergic Neurons
+PHLDB1,Oligodendrocytes
+PHLDB11,Oligodendrocytes
+PHYHIP,Granule Neurons
+PIFO,Neuronal Stem Cells
+PIK3C2A,Endothelial Cells
+PIK3R1,Pyramidal Neurons
+PIK3R11,Pyramidal Neurons
+PIP4K2A,Oligodendrocytes
+PIP4K2A1,Oligodendrocytes
+PKD1,Pyramidal Neurons
+PKD11,Granule Neurons
+PKM,Neuronal Stem Cells
+PLAT,Endothelial Cells
+PLCB1,Pyramidal Neurons
+PLCE1,Neuronal Stem Cells
+PLEKHA1,Pyramidal Neurons
+PLEKHA11,Pyramidal Neurons
+PLEKHA2,Granule Neurons
+PLEKHA5,Pyramidal Neurons
+PLEKHA51,Pyramidal Neurons
+PLEKHA57,Neuronal Stem Cells
+PLEKHB2,Excitatory Neurons
+PLEKHH1,Oligodendrocytes
+PLEKHH11,Oligodendrocytes
+PLIN5,Astrocytes
+PLK2,Pyramidal Neurons
+PLK21,Pyramidal Neurons
+PLP18,Oligodendrocytes
+PLP19,Oligodendrocytes
+PLTP,Neuronal Stem Cells
+PLXDC2,Microglia
+PLXNA4,Granule Neurons
+PMP2,Astrocytes
+PNCK,Granule Neurons
+PNMA2,GABAergic Neurons
+PODXL,Endothelial Cells
+POLR2L,Endothelial Cells
+POMP,Endothelial Cells
+PON2,Astrocytes
+PON21,Astrocytes
+PON22,Endothelial Cells
+PPAP2B,Astrocytes
+PPARGC1A,Neuronal Stem Cells
+PPFIA1,Astrocytes
+PPFIA21,Granule Neurons
+PPFIA4,Granule Neurons
+PPFIBP1,Pyramidal Neurons
+PPFIBP11,Pyramidal Neurons
+PPFIBP13,Granule Neurons
+PPFIBP18,Endothelial Cells
+PPIG,Microglia
+PPP1CB,Neuronal Stem Cells
+PPP1R12B,Oligodendrocytes
+PPP1R14A,Oligodendrocytes
+PPP1R14A1,Oligodendrocytes
+PPP1R32,Neuronal Stem Cells
+PPP1R42,Neuronal Stem Cells
+PPP3CA,Pyramidal Neurons
+PPP3CA1,Pyramidal Neurons
+PPP3CA3,Granule Neurons
+PRDX5,Excitatory Neurons
+PRDX6,Astrocytes
+PREX2,Astrocytes
+PRKCB,Pyramidal Neurons
+PRKCB1,Pyramidal Neurons
+PRKCG,Pyramidal Neurons
+PRMT8,Excitatory Neurons
+PRNP,GABAergic Neurons
+PRODH,Astrocytes
+PRODH1,Astrocytes
+PROS1,Microglia
+PROX1,Granule Neurons
+PRPF38B,Microglia
+PRUNE2,Oligodendrocytes
+PRUNE21,Oligodendrocytes
+PSAP,Oligodendrocyte Precursor Cells
+PSAP1,Neuronal Stem Cells
+PSMA7,Excitatory Neurons
+PSMB7,Excitatory Neurons
+PSMC1,Excitatory Neurons
+PSMD7,Excitatory Neurons
+PTGDS6,Astrocytes
+PTGDS7,Astrocytes
+PTGDS8,Oligodendrocytes
+PTGDS9,Oligodendrocytes
+PTH1R,Endothelial Cells
+PTK2,Oligodendrocytes
+PTK21,Oligodendrocytes
+PTK2B,Pyramidal Neurons
+PTK2B1,Pyramidal Neurons
+PTK2B2,Granule Neurons
+PTMA4,Oligodendrocytes
+PTMA5,Oligodendrocytes
+PTMA7,Neuronal Stem Cells
+PTMA8,Endothelial Cells
+PTMS,Endothelial Cells
+PTN,Astrocytes
+PTN1,Oligodendrocyte Precursor Cells
+PTN2,Endothelial Cells
+PTPN13,Pyramidal Neurons
+PTPN14,Excitatory Neurons
+PTPRB,Endothelial Cells
+PTPRD2,Oligodendrocytes
+PTPRF,Neuronal Stem Cells
+PTPRG,Endothelial Cells
+PTPRM,GABAergic Neurons
+PTPRZ1,Astrocytes
+PTPRZ11,Astrocytes
+PTPRZ12,Oligodendrocyte Precursor Cells
+PTRF,Neuronal Stem Cells
+PTRF1,Endothelial Cells
+PTTG1IP,Endothelial Cells
+PWAR6,Pyramidal Neurons
+PWAR61,Pyramidal Neurons
+PWAR62,Pyramidal Neurons
+PWAR63,GABAergic Neurons
+PWAR64,GABAergic Neurons
+PWAR65,Granule Neurons
+PXK,Oligodendrocytes
+PXK1,Oligodendrocytes
+QDPR,Oligodendrocytes
+QDPR1,Oligodendrocytes
+QKI3,Oligodendrocytes
+QKI4,Oligodendrocytes
+R3HDM1,Pyramidal Neurons
+R3HDM11,Pyramidal Neurons
+RAB11A,Excitatory Neurons
+RAB1A,Excitatory Neurons
+RAB3A,Excitatory Neurons
+RAB3C,GABAergic Neurons
+RAB3IP,GABAergic Neurons
+RABEPK,Excitatory Neurons
+RABL2A,Neuronal Stem Cells
+RABL2B,Neuronal Stem Cells
+RAC1,Endothelial Cells
+RALYL,Excitatory Neurons
+RAMP2,Endothelial Cells
+RAN,Excitatory Neurons
+RAP1GAP,Pyramidal Neurons
+RAP1GAP1,Pyramidal Neurons
+RAPGEF5,Pyramidal Neurons
+RAPGEFL1,Pyramidal Neurons
+RAPGEFL11,Pyramidal Neurons
+RAPGEFL12,Granule Neurons
+RAPH1,Excitatory Neurons
+RARRES2,Neuronal Stem Cells
+RASGEF1B,Excitatory Neurons
+RASGRF1,Excitatory Neurons
+RASGRP1,Granule Neurons
+RBFOX1,Pyramidal Neurons
+RBFOX11,Granule Neurons
+RBFOX2,Pyramidal Neurons
+RBFOX21,GABAergic Neurons
+RBM17,Endothelial Cells
+RBM25,Pyramidal Neurons
+RBPJ,Oligodendrocytes
+RDX,Oligodendrocytes
+RDX1,Oligodendrocytes
+RECK,Excitatory Neurons
+RELN,GABAergic Neurons
+REV3L,GABAergic Neurons
+REV3L1,GABAergic Neurons
+RFX3,Granule Neurons
+RFX31,Neuronal Stem Cells
+RGCC,Endothelial Cells
+RGS1,Microglia
+RGS12,GABAergic Neurons
+RGS22,Neuronal Stem Cells
+RGS4,Excitatory Neurons
+RGS5,Endothelial Cells
+RHOA,Endothelial Cells
+RHOB,Astrocytes
+RHOB1,Endothelial Cells
+RHOBTB3,Astrocytes
+RHOBTB31,Astrocytes
+RHOC,Endothelial Cells
+RIMBP2,Granule Neurons
+RIMKLB,Neuronal Stem Cells
+RIMS2,Pyramidal Neurons
+RIMS21,Pyramidal Neurons
+RIMS22,GABAergic Neurons
+RNA28S5,Astrocytes
+RNA28S51,Astrocytes
+RNASE1,Oligodendrocytes
+RNASE11,Endothelial Cells
+RNASET2,Microglia
+RNF213,Microglia
+RNF220,Oligodendrocytes
+ROBO2,GABAergic Neurons
+ROBO4,Endothelial Cells
+ROCK2,Pyramidal Neurons
+ROCK21,Pyramidal Neurons
+ROCK22,Pyramidal Neurons
+ROCK23,Pyramidal Neurons
+ROPN1L,Neuronal Stem Cells
+RORA,Microglia
+RP11-161M6.2,Pyramidal Neurons
+RP11-161M6.21,Oligodendrocyte Precursor Cells
+RP11-297M9.2,GABAergic Neurons
+RP11-356K23.1,Neuronal Stem Cells
+RP11-553L6.5,Granule Neurons
+RP11-701H24.9,Inhibitory Neurons
+RP4-555D20.2,Pyramidal Neurons
+RP5-1024G6.8,GABAergic Neurons
+RPAIN,Excitatory Neurons
+RPGR,Neuronal Stem Cells
+RPGR1,Endothelial Cells
+RPH3A,GABAergic Neurons
+RPL11,Endothelial Cells
+RPL131,Endothelial Cells
+RPL13A,Endothelial Cells
+RPL15,Excitatory Neurons
+RPL18,Endothelial Cells
+RPL19,Endothelial Cells
+RPL23,Endothelial Cells
+RPL27A,Endothelial Cells
+RPL28,Endothelial Cells
+RPL29,Excitatory Neurons
+RPL3,Endothelial Cells
+RPL34,Endothelial Cells
+RPL35,Endothelial Cells
+RPL35A,Endothelial Cells
+RPL36,Endothelial Cells
+RPL36AL,Excitatory Neurons
+RPL37A,Endothelial Cells
+RPL38,Endothelial Cells
+RPL4,Endothelial Cells
+RPL41,Endothelial Cells
+RPL8,Endothelial Cells
+RPLP1,Endothelial Cells
+RPLP2,Endothelial Cells
+RPRML,Excitatory Neurons
+RPS11,Endothelial Cells
+RPS12,Endothelial Cells
+RPS16,Endothelial Cells
+RPS19,Microglia
+RPS193,Endothelial Cells
+RPS20,Endothelial Cells
+RPS23,Endothelial Cells
+RPS27,Oligodendrocytes
+RPS27A,Endothelial Cells
+RPS28,Endothelial Cells
+RPS29,Endothelial Cells
+RPS3,Endothelial Cells
+RPS4X,Endothelial Cells
+RPS5,Endothelial Cells
+RPS6,Endothelial Cells
+RPS8,Endothelial Cells
+RPS9,Endothelial Cells
+RSPH1,Neuronal Stem Cells
+RSPH3,Neuronal Stem Cells
+RSPH4A,Neuronal Stem Cells
+RTF1,Pyramidal Neurons
+RTN1,Pyramidal Neurons
+RTN11,GABAergic Neurons
+RTN3,Pyramidal Neurons
+RTN31,GABAergic Neurons
+RTN4,Excitatory Neurons
+RTN43,Oligodendrocytes
+RUNDC3A,Granule Neurons
+RUNX1T1,GABAergic Neurons
+RYR2,Pyramidal Neurons
+RYR21,Pyramidal Neurons
+RYR22,Pyramidal Neurons
+RYR23,Pyramidal Neurons
+RYR25,Granule Neurons
+RYR3,Pyramidal Neurons
+RYR31,Astrocytes
+RYR32,Astrocytes
+S100A10,Endothelial Cells
+S100A6,Endothelial Cells
+S100B,Astrocytes
+S100B1,Neuronal Stem Cells
+S1PR1,Endothelial Cells
+SAP18,Excitatory Neurons
+SAT1,Astrocytes
+SAT11,Astrocytes
+SAT12,Microglia
+SAT13,Neuronal Stem Cells
+SAT14,Endothelial Cells
+SATB1,Pyramidal Neurons
+SATB11,GABAergic Neurons
+SCAMP5,GABAergic Neurons
+SCAND1,Excitatory Neurons
+SCARB1,Endothelial Cells
+SCD,Oligodendrocytes
+SCD1,Oligodendrocytes
+SCD5,Oligodendrocytes
+SCD51,Oligodendrocyte Precursor Cells
+SCG2,GABAergic Neurons
+SCG3,Astrocytes
+SCG5,Excitatory Neurons
+SCN1A,GABAergic Neurons
+SCN1A5,Neuronal Stem Cells
+SCN2A,Pyramidal Neurons
+SCN2A1,Pyramidal Neurons
+SCN2A2,Pyramidal Neurons
+SCN2A3,GABAergic Neurons
+SCN2A4,Granule Neurons
+SCN3A,Pyramidal Neurons
+SCN3A1,Granule Neurons
+SCN3B,Pyramidal Neurons
+SCN3B1,Pyramidal Neurons
+SDC3,Oligodendrocyte Precursor Cells
+SDCBP,Endothelial Cells
+SDPR,Endothelial Cells
+SEC14L1,Endothelial Cells
+SECISBP2L,Oligodendrocytes
+SEMA5A,Granule Neurons
+SEPP1,Oligodendrocytes
+SEPP11,Oligodendrocytes
+11-Sep,Pyramidal Neurons
+Sep-75,Oligodendrocytes
+8-Sep,Oligodendrocytes
+SERF2,Endothelial Cells
+SERINC1,GABAergic Neurons
+SERPINB6,Endothelial Cells
+SERPINE2,Oligodendrocyte Precursor Cells
+SERPINI1,GABAergic Neurons
+SERPINI2,Neuronal Stem Cells
+SETD5,Oligodendrocyte Precursor Cells
+SEZ6L2,GABAergic Neurons
+SFXN4,Excitatory Neurons
+SFXN5,Astrocytes
+SHANK3,Endothelial Cells
+SIK1,Neuronal Stem Cells
+SIK11,Endothelial Cells
+SIPA1L1,Pyramidal Neurons
+SIPA1L11,Granule Neurons
+SLC11A1,Microglia
+SLC12A5,GABAergic Neurons
+SLC14A1,Astrocytes
+SLC14A11,Astrocytes
+SLC14A12,Neuronal Stem Cells
+SLC16A1,Endothelial Cells
+SLC17A7,Pyramidal Neurons
+SLC17A71,Pyramidal Neurons
+SLC17A74,Granule Neurons
+SLC1A2,Astrocytes
+SLC1A21,Astrocytes
+SLC1A3,Astrocytes
+SLC1A31,Astrocytes
+SLC1A32,Microglia
+SLC1A33,Neuronal Stem Cells
+SLC22A17,GABAergic Neurons
+SLC22A171,Oligodendrocyte Precursor Cells
+SLC24A2,Oligodendrocytes
+SLC25A18,Astrocytes
+SLC25A181,Astrocytes
+SLC25A37,Excitatory Neurons
+SLC26A3,Excitatory Neurons
+SLC2A1,Endothelial Cells
+SLC2A3,Endothelial Cells
+SLC2A5,Microglia
+SLC30A1,Endothelial Cells
+SLC30A3,Granule Neurons
+SLC38A1,Astrocytes
+SLC38A5,Endothelial Cells
+SLC39A10,Endothelial Cells
+SLC3A2,Endothelial Cells
+SLC44A17,Oligodendrocytes
+SLC44A18,Oligodendrocytes
+SLC47A1,Granule Neurons
+SLC47A2,Neuronal Stem Cells
+SLC4A10,GABAergic Neurons
+SLC4A7,Granule Neurons
+SLC5A11,Oligodendrocytes
+SLC5A6,Endothelial Cells
+SLC6A1,GABAergic Neurons
+SLC6A11,GABAergic Neurons
+SLC6A12,Endothelial Cells
+SLC7A1,Endothelial Cells
+SLC7A11,Neuronal Stem Cells
+SLC7A14,Granule Neurons
+SLC7A5,Endothelial Cells
+SLC8A1,Pyramidal Neurons
+SLC8A11,Pyramidal Neurons
+SLC8A2,Granule Neurons
+SLC9A3R2,Endothelial Cells
+SLCO1A2,Oligodendrocytes
+SLCO1A21,Oligodendrocytes
+SLCO2B1,Endothelial Cells
+SLCO4A1,Endothelial Cells
+SLIT2,GABAergic Neurons
+SMARCA1,Pyramidal Neurons
+SMOC1,Oligodendrocyte Precursor Cells
+SNAP25,Pyramidal Neurons
+SNAP251,Pyramidal Neurons
+SNAP252,Granule Neurons
+SNCG,Excitatory Neurons
+SNHG14,Pyramidal Neurons
+SNHG141,Pyramidal Neurons
+SNHG142,Pyramidal Neurons
+SNHG143,Pyramidal Neurons
+SNHG144,GABAergic Neurons
+SNHG145,GABAergic Neurons
+SNHG146,Granule Neurons
+SNORD113-4,Pyramidal Neurons
+SNORD113-41,Pyramidal Neurons
+SNRPA1,Excitatory Neurons
+SNRPN,GABAergic Neurons
+SNU13,Excitatory Neurons
+SNX22,Oligodendrocyte Precursor Cells
+SOD1,Excitatory Neurons
+SON,Astrocytes
+SORBS1,Astrocytes
+SORBS11,Astrocytes
+SORBS2,Pyramidal Neurons
+SORBS21,Endothelial Cells
+SORL11,Microglia
+SORT1,Oligodendrocytes
+SORT11,Oligodendrocytes
+SOX10,Oligodendrocytes
+SOX18,Endothelial Cells
+SOX2,Astrocytes
+SOX2-OT,Oligodendrocytes
+SOX2-OT1,Oligodendrocytes
+SOX21,Astrocytes
+SOX22,Neuronal Stem Cells
+SOX6,GABAergic Neurons
+SOX61,Neuronal Stem Cells
+SOX9,Astrocytes
+SOX91,Neuronal Stem Cells
+SP100,Microglia
+SP1001,Endothelial Cells
+SPAG1,Neuronal Stem Cells
+SPAG16,Neuronal Stem Cells
+SPAG17,Neuronal Stem Cells
+SPAG6,Neuronal Stem Cells
+SPAG8,Neuronal Stem Cells
+SPAG92,Astrocytes
+SPARC,Astrocytes
+SPARC1,Neuronal Stem Cells
+SPARC2,Endothelial Cells
+SPARCL111,Endothelial Cells
+SPARCL12,GABAergic Neurons
+SPARCL15,Astrocytes
+SPARCL16,Astrocytes
+SPATA17,Neuronal Stem Cells
+SPATA18,Neuronal Stem Cells
+SPCS1,Excitatory Neurons
+SPDYE3,Excitatory Neurons
+SPDYE5,Excitatory Neurons
+SPEF2,Neuronal Stem Cells
+SPG11,Excitatory Neurons
+SPHKAP,Pyramidal Neurons
+SPHKAP1,Granule Neurons
+SPI1,Microglia
+SPOCK2,GABAergic Neurons
+SPOCK21,Endothelial Cells
+SPP1,Oligodendrocytes
+SPP11,Oligodendrocytes
+SPP12,Microglia
+SPTAN1,GABAergic Neurons
+SPTBN11,Endothelial Cells
+SPTBN4,Pyramidal Neurons
+SPTBN41,Pyramidal Neurons
+SPTBN42,GABAergic Neurons
+SRGAP2,Microglia
+SRGAP3,Pyramidal Neurons
+SRGN,Endothelial Cells
+SRP14,Excitatory Neurons
+SRP141,Endothelial Cells
+SRPK1,Excitatory Neurons
+SRRM1,Oligodendrocytes
+SRRM2,Microglia
+SRRM3,Pyramidal Neurons
+SRRM31,Pyramidal Neurons
+SRRM32,Pyramidal Neurons
+SRRM33,Pyramidal Neurons
+SRRM34,GABAergic Neurons
+SRRM35,Granule Neurons
+SRRM4,Pyramidal Neurons
+SRRM41,GABAergic Neurons
+SRRM42,GABAergic Neurons
+SRSF11,Pyramidal Neurons
+SRSF5,Pyramidal Neurons
+ST18,Oligodendrocytes
+ST181,Oligodendrocytes
+STAT3,Endothelial Cells
+STAT4,Excitatory Neurons
+STEP4,Oligodendrocytes
+STK33,Neuronal Stem Cells
+STMN1,Excitatory Neurons
+STMN2,Pyramidal Neurons
+STOM,Endothelial Cells
+STOML3,Neuronal Stem Cells
+STXBP1,Pyramidal Neurons
+STXBP11,Granule Neurons
+STXBP5L,Pyramidal Neurons
+STXBP5L1,Pyramidal Neurons
+STXBP5L2,Pyramidal Neurons
+SUB1,Excitatory Neurons
+SUGP2,Granule Neurons
+SUMF1,Excitatory Neurons
+SUMF2,Excitatory Neurons
+SUN2,Oligodendrocytes
+SUSD4,Granule Neurons
+SV2A,GABAergic Neurons
+SV2A1,GABAergic Neurons
+SVOP,Excitatory Neurons
+SWAP70,Endothelial Cells
+SYNE1,Pyramidal Neurons
+SYNE11,Granule Neurons
+SYNE12,Astrocytes
+SYNE17,Neuronal Stem Cells
+SYNE2,Neuronal Stem Cells
+SYNE21,Endothelial Cells
+SYNJ2,Oligodendrocytes
+SYNM,Neuronal Stem Cells
+SYNPR,GABAergic Neurons
+SYP,Pyramidal Neurons
+SYP1,Pyramidal Neurons
+SYP2,GABAergic Neurons
+SYT1,Pyramidal Neurons
+SYT11,Pyramidal Neurons
+SYT12,Pyramidal Neurons
+SYT13,Pyramidal Neurons
+SYT14,GABAergic Neurons
+SYT15,GABAergic Neurons
+SYT7,Pyramidal Neurons
+SYTL2,Pyramidal Neurons
+SYTL3,Microglia
+SYTL4,Astrocytes
+TAC1,GABAergic Neurons
+TACC1,Endothelial Cells
+TAF15,Excitatory Neurons
+TAF7,Excitatory Neurons
+TAGLN2,Endothelial Cells
+TAOK3,GABAergic Neurons
+TAOK31,Oligodendrocyte Precursor Cells
+TARBP1,Pyramidal Neurons
+TARBP11,Pyramidal Neurons
+TBC1D4,Endothelial Cells
+TCEAL2,Excitatory Neurons
+TCEAL4,Inhibitory Neurons
+TCEAL5,Excitatory Neurons
+TCEAL7,Excitatory Neurons
+TCEB1,Excitatory Neurons
+TCF4,Pyramidal Neurons
+TCF41,GABAergic Neurons
+TCF42,GABAergic Neurons
+TCN2,Endothelial Cells
+TCTEX1D1,Neuronal Stem Cells
+TCTN1,Neuronal Stem Cells
+TEAD1,Neuronal Stem Cells
+TEKT1,Neuronal Stem Cells
+TENC1,Endothelial Cells
+TERF2IP,GABAergic Neurons
+TF1,Oligodendrocytes
+TF2,Oligodendrocytes
+TFRC,Endothelial Cells
+TGFBR2,Endothelial Cells
+TGM2,Endothelial Cells
+THSD7A,GABAergic Neurons
+THSD7A1,GABAergic Neurons
+THY1,GABAergic Neurons
+THY11,Granule Neurons
+TIAM1,Granule Neurons
+TIE1,Endothelial Cells
+TIMP2,GABAergic Neurons
+TIMP21,GABAergic Neurons
+TIMP3,Endothelial Cells
+TJP1,Endothelial Cells
+TLE4,Granule Neurons
+TLN1,Endothelial Cells
+TLN2,Neuronal Stem Cells
+TM4SF1,Endothelial Cells
+TM7SF3,Excitatory Neurons
+TMBIM6,Oligodendrocyte Precursor Cells
+TMBIM61,Endothelial Cells
+TMEM119,Microglia
+TMEM123,Neuronal Stem Cells
+TMEM1231,Endothelial Cells
+TMEM130,GABAergic Neurons
+TMEM1301,Granule Neurons
+TMEM132B,GABAergic Neurons
+TMEM144,Oligodendrocytes
+TMEM1441,Oligodendrocytes
+TMEM14A,Excitatory Neurons
+TMEM165,Oligodendrocytes
+TMEM1651,Oligodendrocytes
+TMEM178A,Pyramidal Neurons
+TMEM2,Endothelial Cells
+TMEM231,Neuronal Stem Cells
+TMEM232,Neuronal Stem Cells
+TMEM241,Excitatory Neurons
+TMEM47,Neuronal Stem Cells
+TMEM59L,Granule Neurons
+TMEM63A,Oligodendrocytes
+TMEM63A1,Oligodendrocytes
+TMEM66,GABAergic Neurons
+TMEM67,Neuronal Stem Cells
+TMF1,Neuronal Stem Cells
+TMSB104,Endothelial Cells
+TMSB4X,Pyramidal Neurons
+TMSB4X3,Microglia
+TMSB4X4,Endothelial Cells
+TNFRSF25,Granule Neurons
+TNIK,Astrocytes
+TNIK1,Astrocytes
+TNK2,Oligodendrocyte Precursor Cells
+TNNT2,Granule Neurons
+TNR,Oligodendrocyte Precursor Cells
+TNS1,Endothelial Cells
+TOB1,Astrocytes
+TOB11,Neuronal Stem Cells
+TOX4,Excitatory Neurons
+TP53TG5,Oligodendrocytes
+TPD52L1,Astrocytes
+TPI1,Endothelial Cells
+TPM1,Neuronal Stem Cells
+TPM11,Endothelial Cells
+TPM2,Pyramidal Neurons
+TPM3,Endothelial Cells
+TPM4,Endothelial Cells
+TPPP3,Neuronal Stem Cells
+TPT1,Endothelial Cells
+TRANK1,GABAergic Neurons
+TRAPPC13,Excitatory Neurons
+TRDN,Neuronal Stem Cells
+TRIL,Neuronal Stem Cells
+TRIM2,Oligodendrocytes
+TRIM21,Oligodendrocytes
+TRIM9,Pyramidal Neurons
+TRIM91,Pyramidal Neurons
+TRIM92,Granule Neurons
+TRMT10B,Excitatory Neurons
+TRPS1,Neuronal Stem Cells
+TSC22D1,Endothelial Cells
+TSC22D3,Endothelial Cells
+TSC22D4,Astrocytes
+TSEN2,Excitatory Neurons
+TSGA10,Neuronal Stem Cells
+TSPAN14,Endothelial Cells
+TSPAN3,Neuronal Stem Cells
+TSPAN7,GABAergic Neurons
+TSPYL2,GABAergic Neurons
+TSPYL21,GABAergic Neurons
+TSPYL22,Granule Neurons
+TTC18,Neuronal Stem Cells
+TTC21A,Neuronal Stem Cells
+TTC26,Neuronal Stem Cells
+TTC3,Pyramidal Neurons
+TTC31,Pyramidal Neurons
+TTC32,Pyramidal Neurons
+TTC33,Granule Neurons
+TTC40,Neuronal Stem Cells
+TTC8,Excitatory Neurons
+TTF1,Excitatory Neurons
+TTLL74,Oligodendrocytes
+TTLL75,Oligodendrocytes
+TTYH1,Astrocytes
+TTYH11,Astrocytes
+TUBA1A1,Oligodendrocytes
+TUBA1A2,Neuronal Stem Cells
+TUBA1B,Pyramidal Neurons
+TUBA1B7,Endothelial Cells
+TUBA4A,Excitatory Neurons
+TUBB,Endothelial Cells
+TUBB2A,GABAergic Neurons
+TUBB2B,Neuronal Stem Cells
+TUBB3,Neurons
+TUBB4B,Excitatory Neurons
+TUBG2,Excitatory Neurons
+TXNIP,Endothelial Cells
+TYMP,Neuronal Stem Cells
+UACA,Endothelial Cells
+UBC,Astrocytes
+UBC1,Neuronal Stem Cells
+UBC2,Endothelial Cells
+UBE2V2,Excitatory Neurons
+UBL3,Neuronal Stem Cells
+UCHL1,Pyramidal Neurons
+UCHL11,Pyramidal Neurons
+UCHL12,Granule Neurons
+UNC13A,Pyramidal Neurons
+UNC80,Pyramidal Neurons
+UNC801,Pyramidal Neurons
+UNC802,GABAergic Neurons
+UPP1,GABAergic Neurons
+UQCR10,Excitatory Neurons
+UQCRB,Neuronal Stem Cells
+UQCRC2,Excitatory Neurons
+UQCRH,Excitatory Neurons
+USP11,GABAergic Neurons
+UTRN,Endothelial Cells
+VAMP5,Endothelial Cells
+VCAN,Astrocytes
+VCAN1,Oligodendrocyte Precursor Cells
+VDAC3,Excitatory Neurons
+VEZF1,Neuronal Stem Cells
+VIM,Neuronal Stem Cells
+VIM1,Endothelial Cells
+VIP,GABAergic Neurons
+VPS13A,Pyramidal Neurons
+VSNL1,Pyramidal Neurons
+VSTM2A,GABAergic Neurons
+VWA1,Oligodendrocytes
+VWA3A,Neuronal Stem Cells
+VWA3B,Neuronal Stem Cells
+VWA5B2,Granule Neurons
+VWF,Endothelial Cells
+WASF1,Pyramidal Neurons
+WASF11,Granule Neurons
+WDR16,Neuronal Stem Cells
+WDR19,Neuronal Stem Cells
+WDR49,Neuronal Stem Cells
+WDR52,Neuronal Stem Cells
+WDR60,Pyramidal Neurons
+WDR604,Neuronal Stem Cells
+WDR61,Excitatory Neurons
+WDR63,Neuronal Stem Cells
+WDR65,Neuronal Stem Cells
+WDR66,Neuronal Stem Cells
+WDR78,Neuronal Stem Cells
+WDR93,Neuronal Stem Cells
+WDR96,Neuronal Stem Cells
+WIPF3,Pyramidal Neurons
+WIPF31,Pyramidal Neurons
+WLS,Neuronal Stem Cells
+WSB1,Excitatory Neurons
+WSB12,Oligodendrocytes
+WWC1,Neuronal Stem Cells
+WWTR1,Endothelial Cells
+XAF1,Microglia
+XAF11,Endothelial Cells
+XKR4,GABAergic Neurons
+XPO4,Excitatory Neurons
+XRCC6,Excitatory Neurons
+YBX3,Neuronal Stem Cells
+YBX31,Endothelial Cells
+YJEFN3,Granule Neurons
+YWHAB,Pyramidal Neurons
+YWHAH,Pyramidal Neurons
+YWHAH1,Granule Neurons
+YWHAZ,Pyramidal Neurons
+ZBBX,Neuronal Stem Cells
+ZBTB20,Granule Neurons
+ZBTB201,Astrocytes
+ZBTB38,Endothelial Cells
+ZC3H13,Pyramidal Neurons
+ZEB1,Endothelial Cells
+ZEB2,Oligodendrocytes
+ZEB21,Oligodendrocytes
+ZFAND5,Astrocytes
+ZFP36,Neuronal Stem Cells
+ZFP361,Endothelial Cells
+ZFP36L1,Astrocytes
+ZFP36L11,Astrocytes
+ZFP36L12,Microglia
+ZFP36L13,Neuronal Stem Cells
+ZFP36L14,Endothelial Cells
+ZFP36L2,Microglia
+ZFP36L21,Neuronal Stem Cells
+ZFYVE16,Oligodendrocytes
+ZFYVE161,Oligodendrocytes
+ZIC2,Granule Neurons
+ZKSCAN1,Oligodendrocytes
+ZMAT1,Astrocytes
+ZMAT11,Astrocytes
+ZMAT12,Neuronal Stem Cells
+ZMYND10,Neuronal Stem Cells
+ZMYND8,Granule Neurons
+ZNF273,Granule Neurons
+ZNF2731,Neuronal Stem Cells
+ZNF292,GABAergic Neurons
+ZNF385D,GABAergic Neurons
+ZNF385D1,GABAergic Neurons
+ZNF428,Excitatory Neurons
+ZNF565,Excitatory Neurons
+ZNF667,Pyramidal Neurons
+ZNF708,Oligodendrocytes
+ZNF91,Pyramidal Neurons
+ZRANB3,Excitatory Neurons
+ZSCAN18,Excitatory Neurons
