@@ -44,7 +44,6 @@ HBClassifier2 <- function(SampleSet, nucIsoType)
 
   class_cluster_list <- SampleSet.markers %>% group_by(cluster) %>% top_n(n = 20, wt = avg_logFC)
 
-  source_data("https://github.com/aelyaderani/HBClassifier/blob/master/data/HBClassifier_markers_ref.RData?raw=True")
   unknown <- "Unknown"
 
   reflist <- data.frame(Gene_name= HBClassifier_marker_ref$gene, Cell_name= HBClassifier_marker_ref$cell,stringsAsFactors = FALSE)
