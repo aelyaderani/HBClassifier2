@@ -8,7 +8,7 @@
 #' HBClassifier2()
 #'
 HBClassifier2 <- function(SampleSet, nucIsoType)
-{require(Matrix);require(devtools);require(Seurat);require(repmis);require(dplyr)
+{require(Matrix);require(devtools);require(Seurat);require(repmis);require(dplyr);require(RCurl)
 
   SampleSet <- RunPCA(object = SampleSet, verbose = FALSE)
   SampleSet <- ProjectDim(object = SampleSet)
@@ -44,6 +44,8 @@ HBClassifier2 <- function(SampleSet, nucIsoType)
 
   class_cluster_list <- SampleSet.markers %>% group_by(cluster) %>% top_n(n = 20, wt = avg_logFC)
 
+  reflist <- getURL("https://raw.githubusercontent.com/aelyaderani/HBClassifier2/master/HBClassifier_marker_ref.csv")
+  HBClassifier_marker_ref <- read.csv(text = reflist)
   unknown <- "Unknown"
 
   reflist <- data.frame(Gene_name= HBClassifier_marker_ref$gene, Cell_name= HBClassifier_marker_ref$cell,stringsAsFactors = FALSE)
