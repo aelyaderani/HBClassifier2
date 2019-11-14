@@ -8,7 +8,7 @@
 #' HBClassifier2()
 #'
 HBClassifier2 <- function(SampleSet, nucIsoType)
-{require(Matrix);require(devtools);require(Seurat);require(repmis);require(dplyr);require(RCurl)
+{require(Matrix);require(devtools);require(Seurat);require(repmis);require(dplyr);require(RCurl);require(repmis)
 
   SampleSet <- RunPCA(object = SampleSet, verbose = FALSE)
   SampleSet <- ProjectDim(object = SampleSet)
